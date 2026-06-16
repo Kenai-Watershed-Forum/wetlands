@@ -1,0 +1,13 @@
+---
+title: "agent_context"
+format: html
+---
+
+6/15/2026
+I am in the process of developing a project proposal related to wetlands in the Kenai Peninsula. I would like assistance in the following ways:
+
+1) Review the existing draft Word doc proposal at other/documents/DRAFT FULL PROPOSAL ncrf-2026.docx. The maximum page length is 8, it is currently 9 pages. I want to have more space to address the unanswered questions in section E, response to pre-proposal reviewer comments. I want you to help me develop a process where I can make line-by-line specific edits to make this space available
+
+2) Offer specific corrections or feedback that will strengthen the proposal in general. See additional materials in other/documents for context.
+
+3) Edit the gitignore such that the other/documents folder is not synced with GitHub.
