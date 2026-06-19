@@ -11,3 +11,53 @@ I am in the process of developing a project proposal related to wetlands in the 
 2) Offer specific corrections or feedback that will strengthen the proposal in general. See additional materials in other/documents for context.
 
 3) Edit the gitignore such that the other/documents folder is not synced with GitHub.
+
+6/18/2026
+I have placed the most current version of the proposal (DRAFT FULL PROPOSAL ncrf-2026 - 20260618.docx) in other/documents. I want to ensure that the content in comments, 1, 2, and 3 (page 8) is also reinforced throughout the proposal.
+
+In a new section below todays date in proposal_edits_reference.qmd, suggest where i need to make edits throughout the document to achieve this goal, while still remaining within the 8 page limit. Ensure that signs of AI writing tropes are not used, such as overuse of em-dashes.**Key Partners (Q11, 98 words):** Delete the final sentence — "Watershed and fish habitat mapping support from Romey Riverscape Sciences (Bernard Romey) and Terrainworks (Dr. Lee Benda) are included as established collaborators." (\~25 words — already covered in Section D).
+
+------------------------------------------------------------------------
+
+## 2026-06-18 — Reinforcing Section E Themes Throughout the Proposal
+
+The Section E responses to Comments 1, 2, and 3 each make a specific claim. If that claim doesn't appear in the proposal body, a reviewer who reads the narrative first may remain unconvinced. The three edits below add targeted reinforcement. Net word impact is small (roughly +10 words total) and is easily absorbed by the cuts already planned above.
+
+**What each comment requires in the body:**
+
+- **Comment 1** — Organizational capacity: the body should explicitly state that the two grants have separate PIs and operate independently.
+- **Comment 2** — Flood risk specificity: the body should name specific affected locations (Soldotna Creek **and Kalifornsky Beach**) and use "infrastructure flooding" rather than the vaguer "hydrologic vulnerability."
+- **Comment 3** — Project location: the body should name the four physiographic regions and state the exclusion of federal lands.
+
+------------------------------------------------------------------------
+
+### Edit 2026-A — Q3 Pipeline Project (Comment 1: organizational capacity)
+
+**Find:** *"Pipeline Project: This proposal builds off the existing NCRF-funded project from 2024…"*\
+**127 words → ~125 words \| net: −2 words**
+
+Replace the vague closing sentence ("Together these projects support a regional watershed planning framework…") with an explicit capacity statement.
+
+Pipeline Project: This proposal builds directly on NCRF grant #84304, currently under implementation. That project uses watershed modeling and field verification to improve maps of stream networks used in infrastructure planning and regulatory decisions. In other regions of Alaska, the approach has already identified more than 50% increases in channel length and more than 300% increases in modeled fish habitat length (Benda et al. 2026). The proposed project applies those outputs to identify wetlands connected to these stream systems and to integrate wetlands datasets into municipal planning and conservation decisions. KWF's full-time wetlands coordinator, Alie Minium, M.S., will serve as PI on this proposal; Benjamin Meyer continues as PI on #84304. The two grants operate independently and concurrently, with separate staff leads and distinct deliverables.
+
+------------------------------------------------------------------------
+
+### Edit 2026-B — Q7 Community Benefits (Comment 2: flood risk specificity)
+
+**Find:** *"Community Benefits: This project reduces community flood exposure…"*\
+**113 words → ~113 words \| net: 0 words**
+
+Add Kalifornsky Beach as a named affected location and replace "increased hydrologic vulnerability" with "contributed to infrastructure flooding events," consistent with Comment 2 response language. Also adds Earl (2015) citation, which is already in the reference list.
+
+Community Benefits: This project reduces community flood exposure by identifying which wetlands provide the highest flood storage and flow attenuation services, and equipping local practitioners to protect them. Alaska Native and tribal entities hold 42% of non-federal wetland acreage on the Kenai Peninsula, followed by private landowners at 35% (Khizri 2026); Wetlands Stewardship Cohort recruitment and outreach will prioritize these audiences. In the Soldotna Creek watershed and Kalifornsky Beach area, cumulative wetland loss has contributed to infrastructure flooding events, and an unrecognized anadromous tributary was recently excavated by a private landowner unaware of its value (Earl 2015; Gracz 2021; Board 2024). By connecting planners and landowners to wetlands data and regulatory pathways, this project creates conditions for preventing similar outcomes.
+
+------------------------------------------------------------------------
+
+### Edit 2026-C — Q9 Scale/Transferability/Innovation (Comment 3: project location and size)
+
+**Find:** *"Scale/Transferability/Innovation: The project covers approximately 229,000 acres…"*\
+**81 words → ~93 words \| net: +12 words**
+
+Name the four physiographic regions and state the exclusion of federal lands. The location detail is directly what Comment 3 asked for.
+
+Scale/Transferability/Innovation: The project covers approximately 229,000 acres of mapped wetlands across four coastal lowland physiographic regions within the Kenai Peninsula Borough: the Nikishka Lowlands, Ninilchik Lowland, Homer Bench, and Fox River Lowland. Federal lands within the Kenai National Wildlife Refuge and Chugach National Forest are excluded. By translating existing regional datasets into practical resilience planning tools, including LiDAR-based hydrologic modeling and a public decision-support decision tree, the project demonstrates an approach directly transferable to other coastal regions where datasets exist but are underutilized in planning. Modeling after the Amigos Bravos Wetland Jewels project provides a proven framework for public communication of conservation priorities.

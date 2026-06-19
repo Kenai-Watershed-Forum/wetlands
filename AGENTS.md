@@ -1,6 +1,6 @@
 # Wetlands Project — Agent Memory
 
-Last updated: 2026-06-15
+Last updated: 2026-06-18
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ KWF (Kenai Watershed Forum) is developing a full proposal for the NFWF National 
 
 ## Key People
 
-- **Alie Minium** — Hydrology Coordinator, new hire, will serve as **PI** on the 2026 proposal
+- **Alie Minium** — Hydrology Coordinator (full-time wetlands coordinator), will serve as **PI** on the 2026 proposal — independent of Benjamin Meyer's #84304 work
 - **Benjamin Meyer** — Environmental Scientist, PI on existing NCRF grant #84304 (stream mapping)
 - **Trent Dodson** — Executive Director, project manager
 - **Candace Nakagawa** — Accounts & Grants Manager
@@ -18,46 +18,45 @@ KWF (Kenai Watershed Forum) is developing a full proposal for the NFWF National 
 | File | Description |
 |---|---|
 | `other/documents/DRAFT FULL PROPOSAL ncrf-2026.docx` | Original 9-page draft (do not edit directly) |
-| `other/documents/DRAFT FULL PROPOSAL ncrf-2026-v2.docx` | Working draft with programmatic edits applied |
-| `other/documents/proposal_edits_reference.qmd` | **Primary working doc** — all proposed paragraph replacements and Section E responses for manual copy-paste into Word |
+| `other/documents/DRAFT FULL PROPOSAL ncrf-2026 - 20260618.docx` | **Current working draft** as of 2026-06-18 |
+| `other/documents/DRAFT FULL PROPOSAL ncrf-2026-v2.docx` | Earlier working draft with some programmatic edits applied |
+| `other/documents/proposal_edits_reference.qmd` | **Primary working doc** — all proposed paragraph replacements for manual copy-paste into Word |
 | `other/documents/previous_proposal/` | Funded 2024 NCRF proposal (#84304) for reference |
 | `other/documents/CookInletWetlands.zip` | Cook Inlet wetlands shapefile (NAD83 Alaska StatePlane ft) |
-| `other/agent_context/agent_context.qmd` | Original task description |
+| `other/agent_context/agent_context.qmd` | Task description (updated 2026-06-18) |
 
 `other/documents/` is excluded from Git (added to `.gitignore`).
 
-## Proposal Status (as of 2026-06-15)
+## Proposal Status (as of 2026-06-18)
 
-**Target:** 8 pages maximum including Section E reviewer responses  
-**Current state of v2.docx:** Programmatic edits applied; still needs manual paragraph replacements from the QMD
+**Target:** 8 pages maximum including Section E reviewer responses
 
-### Edits Already Applied to v2.docx
-- Edit 1: Removed duplicate "in 2015" from Coastal Hazards paragraph
-- Edit 2: Merged redundant opening sentences in Proposed Solution paragraph
-- Edit 4: Condensed NHD/NetMap description in Activity 1
-- Edit 6: Consolidated fragmented team bios into single paragraphs (no visual space savings due to Word formatting, but cleaner structure)
+### Structure of proposal_edits_reference.qmd
 
-### Edits in QMD — Awaiting Manual Copy-Paste into Word
-All of these are in `proposal_edits_reference.qmd`, organized in document order:
-- Q1 Coastal Hazards: 201 → 135 words
-- Q2 Past Planning: 154 → 108 words
-- Q5 Proposed Solution: 154 → 130 words
-- Q6 Deliverables: 125 → 76 words
-- Q7 Community Benefits: 170 → 105 words
-- Q9 Scale/Transferability: 104 → 72 words
-- Section A Methods intro: 111 → 45 words
-- Activity 1: 305 → 230 words
-- Activity 3: 198 → 138 words
-- Activity 6: 103 → 79 words
-- Section C Monitoring: 141 → 77 words
-- **Section E: 4 reviewer responses** (~285 words total, not yet in document at all)
+The QMD has two dated sections. **Apply 6/18 edits for Q3, Q7, and Q9** — they supersede the 6/15 versions of those paragraphs.
 
-**Projected net reduction: ~400 words** — should reach 8-page target.
+**6/15 section (lines ~1–178):** Bulk cuts targeting the 8-page limit. Replacement paragraphs for Q1, Q2, Q5, Q6, Q7, Q9, Section A Methods intro, Activities 1/3/6, Section C Monitoring, and all 4 Section E reviewer responses. Also includes a word count summary table and an "Additional Cuts" list.
+
+**6/18 section (lines ~191–233):** Three targeted edits to reinforce Section E reviewer comment themes throughout the proposal body. These supersede the 6/15 versions of Q7 and Q9.
+
+| Edit | Paragraph | Comment addressed | Net words |
+|------|-----------|-------------------|-----------|
+| 2026-A | Q3 Pipeline Project | Comment 1 (capacity/dual-PI) | −2 |
+| 2026-B | Q7 Community Benefits | Comment 2 (flood specificity, adds Kalifornsky Beach) | 0 |
+| 2026-C | Q9 Scale/Transferability | Comment 3 (names 4 physiographic regions, federal exclusion) | +12 |
+
+### Edits Already Reflected in 20260618.docx
+- `[MAP ATTACHMENT]` resolved → `proposal_map.pdf`
+- `[ATTACHMENT X1]` resolved → `wetlands_infographic.pdf`
+- Most 6/15 QMD edits appear already incorporated
+- Section E has Comments 1, 2, 3 responses present; Comment 4 is still missing
 
 ### Outstanding Issues Before Submission
-- `[MAP ATTACHMENT]` and `[ATTACHMENT X1]` are placeholders in Activity 1 — need actual file references
-- Comment 4 (match timing) is not yet in the Word document — both the comment text and response need to be added
+- Comment 4 (match timing) not yet in document — add both comment text and response from 6/15 QMD section
 - Annotated map showing #84304 and 2026 project footprints needs to be uploaded
+- Apply 6/18 edits A, B, C from QMD if not yet done
+
+**Projected net reduction from all QMD edits: ~400 words** — should reach 8-page target.
 
 ## Reviewer Comments (all 4)
 
@@ -83,3 +82,4 @@ All of these are in `proposal_edits_reference.qmd`, organized in document order:
 2. Always state the downstream regulatory/conservation outcome that identifying priority wetlands enables
 3. Section E reviewer responses work best as concise bullets addressing each sub-question directly
 4. Quantify past success and project scale throughout
+5. Body text must corroborate Section E claims — reviewers read the narrative first
